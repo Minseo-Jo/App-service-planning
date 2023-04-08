@@ -1,6 +1,9 @@
 # '내일 어때' application-planning
 2022-2 Design Thinking Lecture Term Project
 
+
+<img width="200" alt="스크린샷 2023-04-08 오후 8 52 14" src="https://user-images.githubusercontent.com/87311912/230719656-608e96bd-1ae5-4e06-824b-6a5e2b384c29.png">
+
 ## 1. 개요
 
 ### 1.1 프로젝트 소개
